@@ -26,8 +26,8 @@
           <boolProp name="LoopController.continue_forever">false</boolProp>
           <stringProp name="LoopController.loops">1</stringProp>
         </elementProp>
-        <stringProp name="ThreadGroup.num_threads">10</stringProp>
-        <stringProp name="ThreadGroup.ramp_time">5</stringProp>
+        <stringProp name="ThreadGroup.num_threads">5</stringProp>
+        <stringProp name="ThreadGroup.ramp_time"></stringProp>
         <longProp name="ThreadGroup.start_time">1505785397000</longProp>
         <longProp name="ThreadGroup.end_time">1505785397000</longProp>
         <boolProp name="ThreadGroup.scheduler">false</boolProp>
@@ -59,7 +59,7 @@
       &quot;RowVersion&quot;: 0&#xd;
     },&#xd;
     &quot;DeviceType&quot;: &quot;3&quot;,&#xd;
-    &quot;DeviceVersion&quot;: 184,&#xd;
+    &quot;DeviceVersion&quot;: 186,&#xd;
     &quot;HeadUrl&quot;: &quot;20170808b12535-2242-4fa4-b88a-807e6002344e.png&quot;,&#xd;
     &quot;IMShutupState&quot;: false,&#xd;
     &quot;Id&quot;: &quot;001009&quot;,&#xd;
@@ -91,7 +91,7 @@
   &quot;IsMobile&quot;: true,&#xd;
   &quot;Parameters&quot;: {},&#xd;
   &quot;Token&quot;: &quot;&quot;,&#xd;
-  &quot;Version&quot;: &quot;1.8.4&quot;&#xd;
+  &quot;Version&quot;: &quot;1.9.0&quot;&#xd;
 } </stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -227,7 +227,7 @@
   &quot;IsMobile&quot;: true,&#xd;
   &quot;Parameters&quot;: {},&#xd;
   &quot;Token&quot;: &quot;${token}&quot;,&#xd;
-  &quot;Version&quot;: &quot;1.8.4&quot;&#xd;
+  &quot;Version&quot;: &quot;1.9.0&quot;&#xd;
 } &#xd;
 </stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
@@ -341,7 +341,7 @@
   &quot;IsMobile&quot;: true,&#xd;
   &quot;Parameters&quot;: {},&#xd;
   &quot;Token&quot;: &quot;${token}&quot;,&#xd;
-  &quot;Version&quot;: &quot;1.8.4&quot;&#xd;
+  &quot;Version&quot;: &quot;1.9.0&quot;&#xd;
 } </stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
